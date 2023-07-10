@@ -26,7 +26,7 @@ const Auth: FC<{ redirect: string }> = ({ redirect }) => {
 
       <p className="text-sm font-medium text-gray-500">
         {t('This route (the folder itself and the files inside) is password protected. ') +
-          t('If you know the password, please enter it below.')}
+          t('If you want this membership, contact me on discord.')}
       </p>
 
       <div className="flex items-center space-x-2">
